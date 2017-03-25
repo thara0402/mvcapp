@@ -1,0 +1,8 @@
+/Users/thara/Develop/mvcapp/bin/Debug/netcoreapp1.1/mvcapp.deps.json
+/Users/thara/Develop/mvcapp/bin/Debug/netcoreapp1.1/mvcapp.runtimeconfig.json
+/Users/thara/Develop/mvcapp/bin/Debug/netcoreapp1.1/mvcapp.runtimeconfig.dev.json
+/Users/thara/Develop/mvcapp/bin/Debug/netcoreapp1.1/mvcapp.dll
+/Users/thara/Develop/mvcapp/bin/Debug/netcoreapp1.1/mvcapp.pdb
+/Users/thara/Develop/mvcapp/obj/Debug/netcoreapp1.1/mvcapp.AssemblyInfo.cs
+/Users/thara/Develop/mvcapp/obj/Debug/netcoreapp1.1/mvcapp.dll
+/Users/thara/Develop/mvcapp/obj/Debug/netcoreapp1.1/mvcapp.pdb
